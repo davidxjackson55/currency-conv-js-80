@@ -1,2 +1,4 @@
-# currency-conv-js-80
+# Currency Conv Js 80
+
 A basic exchange converter in JavaScript.
+
